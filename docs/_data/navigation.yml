@@ -1,0 +1,12 @@
+# Site navigation links
+
+- title: Posts
+  url: /posts/
+- title: Categories
+  url: /categories/
+- title: Tags
+  url: /tags/
+- title: Cheatsheets
+  url: /cheatsheets/
+- title: Search
+  url: /search/
